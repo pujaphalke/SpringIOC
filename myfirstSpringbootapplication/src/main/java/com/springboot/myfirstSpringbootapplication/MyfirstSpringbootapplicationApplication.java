@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyfirstSpringbootapplicationApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Pull from GitHub");
 		SpringApplication.run(MyfirstSpringbootapplicationApplication.class, args);
 	}
 
